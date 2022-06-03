@@ -11,9 +11,9 @@
 <body>
 
 <!--Head background-->
-<div style="position:fixed;left:0;top:0; height:6%; width:100%; z-index:1; background:#000000">   </div>
+<div style="position:fixed;left:0;top:0; height:6%; width:100%; z-index:1; background:#3B5998">   </div>
 <!--Head fb text-->
-<div style="position:fixed;left:4.05%;top:0.8%;font-size:25;font-weight:900; z-index:2;"> <a href="Home.php" style="color:#FFFFFF; text-decoration:none;" onMouseOver="on_head_fb_text()" onMouseOut="out_head_fb_text()"> <font face="myFbFont"> UConnect </font> </a> </div>
+<div style="position:fixed;left:4.05%;top:0.8%;font-size:25;font-weight:900; z-index:2;"> <a href="Home.php" style="color:#FFFFFF; text-decoration:none;" onMouseOver="on_head_fb_text()" onMouseOut="out_head_fb_text()"> <font face="myFbFont"> facebook </font> </a> </div>
 <!--Head fb text background-->
 <div style="position:fixed;left:4%;top:1%; height:5%; width:8%; z-index:1; background:#4A63A5; display:none;" id="head_fb_text_backgraound">   </div>
 
